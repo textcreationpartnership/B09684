@@ -1,0 +1,242 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Two horrid murthers; one, committed upon the person of Henry the Fourth of France. The other upon his son in law, Charles the First of England. Of the various and lasting tortures endured by the murtherers of the one, (extracted out of Mr. Howell his history of Lewis the 13th) and of the early short punishments undergone by the murtherers of the other.  Though for the atrocity of the fact, they were not inferior to the first, but considering all circumstances, and complication of treasons went beyond him / by James Parry of Poston, Esquire.</title>
+            <author>Parry, James, of Poston.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B09684</idno>
+            <idno type="STC">Wing P556A</idno>
+            <idno type="STC">ESTC R201017</idno>
+            <idno type="EEBO-CITATION">69648846</idno>
+            <idno type="OCLC">ocm 69648846</idno>
+            <idno type="VID">185019</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B09684)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185019)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2883:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Two horrid murthers; one, committed upon the person of Henry the Fourth of France. The other upon his son in law, Charles the First of England. Of the various and lasting tortures endured by the murtherers of the one, (extracted out of Mr. Howell his history of Lewis the 13th) and of the early short punishments undergone by the murtherers of the other.  Though for the atrocity of the fact, they were not inferior to the first, but considering all circumstances, and complication of treasons went beyond him / by James Parry of Poston, Esquire.</title>
+                  <author>Parry, James, of Poston.</author>
+                  <author>Howell, James, 1594?-1666. Lustra Ludovici, or, The life of the late victorious King of France, Lewis the XIII.</author>
+               </titleStmt>
+               <extent>[4], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Henry Broom at the Gun in Ivie-Lane,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in: Peterborough Cathedral.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry --  IV, --  King of France, 1553-1610.</term>
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Regicides --  France --  Early works to 1800.</term>
+               <term>Regicides --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term>France --  History --  Henry IV, 1589-1610.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:185019:1"/>
+            <pb facs="tcp:185019:1" rendition="simple:additions"/>
+            <p>TWO HORRID MURTHERS; ONE, COMMITTED UPON THE PERSON OF <hi>HENRY</hi> the Fourth of <hi>FRANCE.</hi> THE OTHER UPON HIS SON IN LAW, <hi>CHARLES</hi> the Firſt of <hi>ENGLAND.</hi>
+            </p>
+            <p>Of the various and laſting <hi>Tortures</hi> endured by the Murtherers of the <hi>One</hi> (extracted out of Mr. HOWELL his Hiſtory of LEWIS the 13<hi rend="sup">th.</hi>)</p>
+            <p>And of the eaſy ſhort Puniſhments undergone by the Murtherers of the Other.</p>
+            <p>Though for the <hi>Atrocity</hi> of the Fact, They were not inferior to the Firſt, but conſidering all circumſtances, and compli<g ref="char:EOLhyphen"/>cation of Treaſons went beyond Him.</p>
+            <p>By JAMES PARRY of <hi>Poſton,</hi> Eſquire.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Henry Broom</hi> at the Gun in Ivie-lane, 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:185019:2" rendition="simple:additions"/>
+            <pb facs="tcp:185019:2" rendition="simple:additions"/>
+            <p>DEDICATED IN ALL HUMBLENESSE TO THE RIGHT HONORABLE THE Lord high Chancelor, AND PRIME OFFICER OF THE CROVVN of <hi>ENGLAND.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:185019:3" rendition="simple:additions"/>
+            <pb n="1" facs="tcp:185019:3" rendition="simple:additions"/>
+            <head>OF THE TWO HORRID MURTHERS, OR <hi>PARRICIDES</hi> (The Worſt ſort of Murthers) Committed upon HENRY the Fourth of <hi>France,</hi> and CHARLES the Firſt of <hi>England.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">T</seg>heſe two Execrable Murthers, together with the Murtherers, as they agree, and hold parallell in many things, ſo they differ in ſome other.</p>
+            <p>They agree touching the Atrocity and hainouſneſs of the main <hi>Act,</hi> both the Murthers being perpetrated upon the Sacred Perſons of two Great Chriſtian Kings; And that They were Murther'd by their own vaſſals who were bound unto Them by ſo<g ref="char:EOLhyphen"/>lemn Oathes of Alleageance, Fidelity and Obedience; They agree, that as the French <hi>Aſſaſsin</hi> alledg'd that he was lead thereunto by certain <hi>Illuminations</hi> which he was contented to call afterwards <hi>Tentations,</hi> ſo the In<g ref="char:EOLhyphen"/>fernall Murtherers in <hi>England</hi> pretended to have <hi>New<g ref="char:EOLhyphen"/>lights</hi> ever and anon; They both agreed in an abomi<g ref="char:EOLhyphen"/>nable kind of blaſphemy, in that they made God him<g ref="char:EOLhyphen"/>ſelf the chief Author thereof, and that it was <hi>his work</hi> more then <hi>Mans.</hi>
+            </p>
+            <p>They <hi>differ,</hi> In that the Murther in <hi>France</hi> was com<g ref="char:EOLhyphen"/>mitted
+<pb n="2" facs="tcp:185019:4" rendition="simple:additions"/>
+by one ſingle <hi>Aſſaſsin,</hi> for he would never con<g ref="char:EOLhyphen"/>feſſe in the higheſt agonies of Torture, that any knew of it but Himſelf, no not his Ghoſtly Fathers, for fear of diſcovery; for ſo he ſaid the <hi>Intent</hi> might be pu<g ref="char:EOLhyphen"/>niſh'd for the <hi>Deed.</hi>
+            </p>
+            <p>But the <hi>Engliſh</hi> Murtherers, may be call'd an ugly <hi>Hydra</hi> with many heads, who after divers previous con<g ref="char:EOLhyphen"/>ſultations committed the <hi>Crime.</hi>
+            </p>
+            <p>The Murther in <hi>France</hi> was ſudden, cloſe and Clan<g ref="char:EOLhyphen"/>deſtin, But that in <hi>England</hi> was long a moulding, It was done in the face of the Sun, and pretended to be done according to Juſtice, and the Laws, in which particular they far exceeded <hi>Ravaillac</hi> in a helliſh kind of impu<g ref="char:EOLhyphen"/>dence; It was done before the chief Gate of his own Houſe which was always held a ſanctuary.</p>
+            <p>Moreover, <hi>Henry</hi> the Fourth was quickly put out of pain, but King <hi>Charles</hi> was Crucified as it were long be<g ref="char:EOLhyphen"/>fore His death; For thoſe Murtherers like ſo many Hell<g ref="char:EOLhyphen"/>hounds may be ſayed to have worried Him up and down from place to place, from priſon to priſon a great while, where they ſtudied how to make him weary of His life before they took it away; For they bereſt him of thoſe things which conduce to the common comfort of mankind, (whereof the moſt infamous <hi>Fclou</hi> is not barr'd of,) as Wife, Children, Chaplains, Servants; and place ſtill about Him thoſe whoſe faces He moſt ab<g ref="char:EOLhyphen"/>horrd, which put Him in perpetuall apprehenſions of being Murtherd privately; And if He was found to like any of His Keepers, they were preſently removed from about Him.</p>
+            <p>Laſtly, The Murtherers differ in point of <hi>puniſhment,</hi> for though the <hi>Engliſh</hi> were higher in miſchief, being not onely Traytors to <hi>Him</hi> their <hi>King upon earth,</hi> but
+<pb n="3" facs="tcp:185019:4" rendition="simple:additions"/>
+alſo to the <hi>great King of Heaven,</hi> and to their own <hi>Coun<g ref="char:EOLhyphen"/>try,</hi> having ſo ſacrilegiouſly plunder'd the <hi>One,</hi> and plung'd the <hi>Other</hi> in blood and war, yet <hi>They</hi> had but a ſhort kind of puniſhment, laſting ſcarce a quarter of an hower, which took away the ſenſe of feeling the reſt.</p>
+            <p>But He of <hi>France</hi> had lingring <hi>Tortures</hi> inſted of <hi>puniſhments,</hi> which extended to the utmoſt length of time, poſſibility of ſenſe, and poſſibility of nature, as is mention'd in this Incomparable Hiſtroy, which touching this point begins as followeth.</p>
+            <p>There was a gentle Calme through all Chriſtendom, and <hi>France</hi> had not the leaſt ſhare of it, having continu<g ref="char:EOLhyphen"/>ed twenty years together in a conſtant repoſe without the leſt tintumarre, or motion of Armes, A rare thing amongſt ſo ſpritefull and quickſylver'd people to whom <hi>Peace</hi> becomes a ſurfet any longer then they have pick'd up their crummes to feed a new war, ſay there was a Ca<g ref="char:EOLhyphen"/>tholique peace throughout <hi>Europe</hi> when <hi>Henry the Fourth of France</hi> would needs get a horſe-back upon a great Martiall deſign which was a myſtery for the time, ſo that all men ſtood at a maze what he meant, the buſi<g ref="char:EOLhyphen"/>neſs was carried ſo cloſely, whereupon he raiſeth a po<g ref="char:EOLhyphen"/>tent Army of Horſe and Foot.</p>
+            <p>But behold the greateſt example of the libricity and inſtableneſs of mundane affairs, and of the ſandy foun<g ref="char:EOLhyphen"/>dation whereon the higheſt pomp and purpoſes of Men are grounded that any Age can parallell, For this Great King (as I told you before,) having a moſt powerfull and a kind of irreſiſtible Army of about 40000. com<g ref="char:EOLhyphen"/>batants, all choice men, conducted by Veteran Com<g ref="char:EOLhyphen"/>manders, and the moſt expert that <hi>Europe</hi> could afford, and all of them well appointed and in perfect equipage; The King having alſo a mount of gold as high as a lance
+<pb n="4" facs="tcp:185019:5" rendition="simple:additions"/>
+(as the <hi>French</hi> writers have it,) eſtimated at ſixteen mil<g ref="char:EOLhyphen"/>lions of treaſure to maintain this Army; He having aſ<g ref="char:EOLhyphen"/>ſur'd his Confederates abroad, and ſettled all things at home; He having alſo cauſed his <hi>Queen</hi> to be Crownd in the higheſt magnificence that could be with intent to appoint Her <hi>Regent</hi> in his abſence.</p>
+            <p>Behold this mighty King amongſt theſe triumphs of his Queen, being to go the next day to his Army, when his ſpirits were at their higheſt elevation, and his heart ſwelling with <hi>Aſſurances</hi> rather then <hi>Hopes</hi> of ſucceſſe and glory, going privately in the afternoon to his Arſe<g ref="char:EOLhyphen"/>nal to view his Artillery, He was ſtop'd in a ſmall ſtreet by ſo contemptible a thing as a Colliers cart, and there, from among the armes of his own Nobles who were with him in the Coach, he was thruſt violently out of the world by one of the meaneſt of his own vaſſalls, who with a prodigious hardineſs faſtning his foot upon the Coach-wheel reach'd him ore the ſhoulders of one of his greateſt Lords, and ſtab'd him to the very heart, and with a monſtrous undantedneſs of reſolution making good his firſt ſtab with a ſecond, diſpatched him ſudden<g ref="char:EOLhyphen"/>ly from off the earth, as if a Mouſe had ſtrangled an Ele<g ref="char:EOLhyphen"/>phant.</p>
+            <q>—<hi>Sic parvis pereunt ingentia rebus.</hi>
+            </q>
+            <p>The <hi>French</hi> ſtories ſpeak of divers Auguries and pre<g ref="char:EOLhyphen"/>dictions of his death; but I will inſert here a paſſage or two that are not to be found in any Printed Author, therefore not vulgar, And our intent is to refrain from ſtuffing this Piece with any thing that hath been too much blown upon. The firſt is a Prophecy in an <hi>Italian</hi> Manuſcript from a good hand written above a hundred years ſince, which runs thus, <hi>Un Gran Re di Francia havendo le ſpalle al papa voltate
+<pb n="5" facs="tcp:185019:5" rendition="simple:additions"/>
+ſinchmerd poi a Roma, dallo piu alto della ſua gloria.</hi>
+            </p>
+            <lg>
+               <l>Le tagliterà la vita,</l>
+               <l>Un coltell feroce</l>
+               <l>Che n'andarà la voce</l>
+               <l>Per tutto il mundo.</l>
+            </lg>
+            <p>Thus rendred into Engliſh,</p>
+            <lg>
+               <l>A Great French King having his face</l>
+               <l>Turn'd from the Pope, ſhall then embrace</l>
+               <l>The Roman Faith, but after, He</l>
+               <l>At higheſt pitch of Majeſtie,</l>
+               <l>Shall by a Fatall knife be rent</l>
+               <l>To all the Worlds aſtoniſhment.</l>
+            </lg>
+            <p>To this may be added the ſpeech of <hi>Francico Corvini</hi> a Toſcan Aſtrologer, who the night before the ſaid <hi>Henry</hi> the fourth was ſlain, leaning upon a balcone in <hi>Florence</hi> which is near upon 600. miles diſtant from <hi>Pa<g ref="char:EOLhyphen"/>ris,</hi> and as he was prying into the motions of the ſtars, he ſuddenly broke out of his ſpeculations into theſe words, <hi>To morrow one of the greateſt Monarks of Chri<g ref="char:EOLhyphen"/>ſtendome is to be ſlain</hi> And the very next day the mor<g ref="char:EOLhyphen"/>tal ſtab was given by <hi>Ravaillac:</hi> Adde hereunto a me<g ref="char:EOLhyphen"/>morable preſaging Dreame that the Queen mother had the night before the murther was committed, for after the triumphs of her Coronation, ſhe dreamt that the diamonds and jewells that were in her Crown were all turn'd to <hi>perl,</hi> which have been always held the em<g ref="char:EOLhyphen"/>blemes of <hi>Tears.</hi>
+            </p>
+            <p>That <hi>Ravaillac</hi> was obſerved to have been a melan<g ref="char:EOLhyphen"/>choly odde humoriſt a great while, one who had at times ſome fits and flaſhes of Illuminations as his friends gave out afterwards; Now, <hi>ſuch is the ſtrength of Ima<g ref="char:EOLhyphen"/>gination and force of Fancy, that having let in falſe Idoeas into the brain, and being fomented by ſome fatuous Zeal,
+<pb n="6" facs="tcp:185019:6" rendition="simple:additions"/>
+it hurls a man headlong oftentimes upon deſperate attempts and undertakings, of inevitable danger, making him miſ<g ref="char:EOLhyphen"/>priſe his own life, ſo that he may be maſter of anothers, ſpe<g ref="char:EOLhyphen"/>cially when the enterpriſe is heated with hope of Merit, Re<g ref="char:EOLhyphen"/>venge, and Fame.</hi>
+            </p>
+            <p>Thus fell one of the compleateſt Kings under which the <hi>Flower de luces</hi> ever flouriſh'd, a ſpriteful and well<g ref="char:EOLhyphen"/>temper'd Prince, excellently vers'd in the ſtudy and knowledge of men, always well diſpos'd, pleaſant and witty, Cloſe in his Counſells, and conſtant in his pur<g ref="char:EOLhyphen"/>poſes, Parſimonious, yet open-handed to <hi>Cadetts</hi> or younger brothers, whom he lov'd to ſee about Him ra<g ref="char:EOLhyphen"/>ther then Elder brothers, who were already advanc'd by <hi>Nature;</hi> And laſtly, though this be but a quarter Character of Him, He was a great diſcerner of worth and vertue, a brave quality, and one of the prime Requi<g ref="char:EOLhyphen"/>ſites in a King; For <hi>ſubjects are induſtrious or diſſolute, They have aſpiring thoughts to vertue, and get good Parts according as their Prince hath judgment to diſtinguiſh and value their worth, and ſo to employ and advance them.</hi>
+            </p>
+            <p>The memory of this King is yet as freſh in <hi>France,</hi> as if he had been taken away but yeſterday, and his death was univerſally <hi>reſented,</hi> as much as <hi>admired,</hi> both at home and abroad.</p>
+            <p>But though the Sun was thus ſuddenly ſet in a dark <hi>ruddy</hi> cloud in the <hi>French</hi> firmament, yet no night en<g ref="char:EOLhyphen"/>ſued, for another did preſently riſe up, ſhot his rayes through every corner of that part of the hemiſphere, <hi>viz. Lewis</hi> the Thirteenth, &amp;c.</p>
+            <p>The report of that monſtrous Parricide committed on the Perſon of ſo glorious a King did penetrat all hearts, and made a ſtrange kind of conſternation to ſeize upon the minds of men. Though it was no new
+<pb n="7" facs="tcp:185019:6" rendition="simple:additions"/>
+thing in <hi>France</hi> to have their King torn away from them ſo, for it was freſh in the memory of many thouſands, how two and twenty years before <hi>Henry the third</hi> his immediate Predeceſſor was diſpatch'd away in that man<g ref="char:EOLhyphen"/>ner, but the <hi>Aſſaſsin</hi> preſently found his tomb in the very place where he did perpetrate the Fact, being im<g ref="char:EOLhyphen"/>mediately hack'd to pieces.</p>
+            <p>The Court of Parliament preſently met that after<g ref="char:EOLhyphen"/>noon, and declar'd Dame <hi>Maria de Medice</hi> Queen Re<g ref="char:EOLhyphen"/>gent of all <hi>France,</hi> which was the next day confirm'd by the young King her Son ſitting Himſelf on the bed of Royall Juſtice; This was done without any oppoſition or ſcruple at all, for King <hi>Henry</hi> had deſign'd her for Queen Regent before during his abſence in the wars, and the reverence that all had to the judgment of ſo wiſe and well belov'd a King advantag'd the work, with a fa<g ref="char:EOLhyphen"/>vorable conjuncture of other circumſtances; For both the <hi>Princes of the blood</hi> were then abſent, The <hi>Count of Soillons</hi> was far up in the Country, where he had retir'd not without ſome diſcontentment; The <hi>Prince of Conde</hi> was then in <hi>Italy.</hi> There were alſo two great Armies in motion, one under the Marſhall <hi>Leſdigueres</hi> in <hi>Dauphine,</hi> The other under the command of the Duke of <hi>Nevers</hi> in <hi>Champanis</hi> ready to ſuppreſſe any inſurrection.</p>
+            <p>The Queen Mother being thus eſtabliſh'd in her <hi>Re<g ref="char:EOLhyphen"/>gency</hi> put three things to preſent conſultation.</p>
+            <p n="1">1. The ſecurity of the Kingdome,</p>
+            <p n="2">2. A ſatisfaction to Juſtice for the Murther of the King.</p>
+            <p n="3">3. His Obſequies, or rites of Funerall.</p>
+            <p>Concerning the <hi>firſt</hi> and <hi>laſt,</hi> it makes nothing for our preſent purpoſe, but touching the <hi>ſecond</hi> which was the expiation of the Kings bloud, and ſatisfaction to
+<pb n="8" facs="tcp:185019:7"/>
+and how <hi>Ravaillac</hi> ſhould be puniſhed much pains was taken: At his firſt examination, they would have perſwaded him that the King was not dead but like to recover, whereat he ſmiled, ſaying, <hi>that he knew well enough the Work was done, for 'twas not he but the hand of Heaven that did it:</hi> Being thereupon ask'd, how he durſt embrue his hands in the bloud of Gods Anointed, the moſt Chriſtian King, and his Soveraign Naturall Prince? at the word <hi>moſt Chriſtian,</hi> he ſmiled again in a king of ſlighting manner; Being ſearched, there was found about him a pair of beads, and a heart made of Cotten with a piece of wood in it, which he was made to believe was a part of that very Croſſe whereon Chriſt ſuffer'd: All means imaginable were aſſayed to make him diſcover if he had had any Inſtigators or complices in this Infernall plot, but he ſtill anſwer'd poſitively and conſtantly he had had none at all, ſaying, that he durſt never ſpeake of it to any, no not to his Confeſſor for fear of diſcovery; <hi>for ſo he might have been puniſhed for the Will only, without the Decd;</hi> yet a Jeſuit and a Cordelier Fryer who were his Ghoſtly Fathers, were ſtrictly examin'd, but nothing could be had out of them; Thereupon there aroſe a nice queſtion among the Di<g ref="char:EOLhyphen"/>vines, <hi>viz. Whether the Prieſt was bound to reveale the Confeſions of his Penitent?</hi> But 'twas only propounded, and ſo left only <hi>problematical</hi> and undecided for that time.</p>
+            <p>Now, Every one did ſcrue up his invention for the deviſing ſome exquiſit laſting torment for <hi>Ravaillac;</hi> among others the Butchers of <hi>Paris</hi> who are habituated to bloud, propos'd a way to flay him alive, and the tor<g ref="char:EOLhyphen"/>ture of excouation ſhould laſt for three days; Others gave the draught of an Inſtrument in form of an Obe<g ref="char:EOLhyphen"/>lisk
+<pb n="9" facs="tcp:185019:7"/>
+where he might be preſsd, and the torment ſhould continue a long time, and life continue; Others pro<g ref="char:EOLhyphen"/>pounded a way to have his body quite cut off from the hipps downwards, and his bowells to be preſently clap'd on a hot iron plank, which ſhould preſerve the other half of the body, and the noble parts in pangs of agonie a long while.</p>
+            <p>But the Court of Juſtice though it fit to wave all theſe ways, and to pronounce this Arreſt or Sentence of condemnation againſt him, viz. <hi>That</hi> Francis Ravaillack <hi>Practitioner (or Pleader) in the Town of</hi> Angouleſme, <hi>a Criminal proceſs being formed against him, and after due Examination, Information, Interrogations, Confeſsion, De<g ref="char:EOLhyphen"/>negation, Confrontation of witneſſes, at the inſtances of the Kings Attorney General, for that most wicked, moſt abo<g ref="char:EOLhyphen"/>minable, and moſt deteſtable Parricide, committed on the perſon of the late King</hi> Henry <hi>the fourth of moſt good and laudable memory. For reparation of which damnable mur<g ref="char:EOLhyphen"/>ther the Court hath declared, and doth doth declare, that the ſaid</hi> Francis Ravaillac <hi>ſhall be carried in a tombrell naked in his ſhirt, with a flaming torch of two pound weight in his hand, before the principall gate of the great Church in</hi> Paris <hi>there to make honorable amends, and thence to be car<g ref="char:EOLhyphen"/>ried to the</hi> Greve <hi>or common place of execution, where holding the knife in his hand wherewith he perpetrated that moſt accur ſed Parricide, his hand ſhall be firſt pierc'd with the ſaid knife, and then burnt up with fire of ſulf<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r upon the open ſtage; That he ſhall have the</hi> Brodequins <hi>or buſ<g ref="char:EOLhyphen"/>kins fill'd with ſcalding oyle applied unto his leggs; That he ſhall be pincerd in the paps, thighs, and braun or calf of the leggs, that holes ſhall be made up and down his body, wherein boyling lead, burning rozin, and wax metled with ſulpher ſhall be powr'd; That his body afterwards ſhall be
+<pb n="10" facs="tcp:185019:8"/>
+drawn &amp; diſmembred by four horſes; That his members ſhall bethen burnt and reduc'd to cinders, and the aſhes thrown into the a<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir an utter extinction of him in this world: That the Houſe wherein he was born in</hi> Angouleſme <hi>ſhall be razd and made even with the ground, provided that he who poſſeſſeth it ſhall be indemnified, and that none ſhall ever preſume to build upon that piece of earth again. That all his goods ſtable or moveable ſhall be confiſcated to the King; That within fifteen days after the publication of this ſentence, his Father and Mother ſhall quit the Kingdome of</hi> France <hi>never to return; That his Brothers, Siſters, Uncles, and others of his Kindred ſhall never for the future bear the name of</hi> Ravaillac <hi>under pain of being hang'd and ſtrangled, but change it to ſome other Sirname.</hi>
+            </p>
+            <p>This diſmall ſentence was executed to the very height of torture, and extended to the utmoſt length of time, poſſibility of ſenſe, and poſſibility of naturall ſtrength, for there were ways invented, and ſuch Cordi<g ref="char:EOLhyphen"/>alls given that kept him from ſyncopps, and fitts of ſwowning; Before, at the beginning, and in the midſt of all his torments, there could be no other confeſſion extorred from him, though he was ſifted with all the ſa<g ref="char:EOLhyphen"/>gacity and artifice that could be, but that the ſole mo<g ref="char:EOLhyphen"/>tives which hurld him on ſo deſperate an attempt were certain <hi>Revelations</hi> that he ſaid he had had, which after<g ref="char:EOLhyphen"/>wards he was contented to call <hi>Temptations;</hi> And that he thought he ſhould do a work acceptable to God Al<g ref="char:EOLhyphen"/>mighty to take away a King who was a Favourer of Heretiques, and who went about with the Army he had rais'd to perturbe the peace of the Catholique Church, and of the Holy Father the Pope.</p>
+            <p>The people in generall did love the deceaſed King ſo paſſionately, that nothing but Imprecations, Curſes, and
+<pb n="11" facs="tcp:185019:8"/>
+all ſorts of Maledictions could be heard ecchoing from them, ſo that none did pitty him, or were heard to pray with him or for him all the while he was upon the ſcat<g ref="char:EOLhyphen"/>fold, and in the midſt of his torments, nay ſcarce any were found that wiſh'd the ſalvation of his ſoul. And touching his Body after it was torn by horſes, happy was he that could get any piece of it to caſt intoa fire, inſomuch that it might be ſaid he was burnt in more then twenty places up and down the City and Suburbs in ſeverall great fires; So <hi>Nemeſis</hi> had her glut, for that infernall <hi>Aſſaſsin</hi> may be ſaid not only to be executed but extinguiſh'd, or rather <hi>annihilated</hi> and reduc'd to a non-entity, only he hath a <hi>Being</hi> in ſtory for an ever<g ref="char:EOLhyphen"/>laſting villain, as <hi>he</hi> who burnt the Temple of <hi>Diana.</hi>
+            </p>
+            <p>
+               <hi>Thus far goes our Noble Hiſtorian, whereby it appears, that the</hi> Engliſh <hi>Clime is far more mild in point of Ju<g ref="char:EOLhyphen"/>ſtice then</hi> France, <hi>for though the Murther here was altoge<g ref="char:EOLhyphen"/>ther of as tranſcendent a nature, and more horrid then the</hi> French, <hi>conſidering all circumſtances, and complication of Treaſons, it being a thing unexampled ſince the world began, that a King ſhould be ſo arraign'd before his own Subjects as a</hi> Criminal; <hi>nor did their Malice terminate with his life, but after his death they hir'd ſcurrilous Pamphleters to be<g ref="char:EOLhyphen"/>ſpatter him, and withall caus'd his ſtatutes to be batter'd, his pictures bu<gap reason="illegible" resp="#APEX" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nt, and his Armes taken down in Churches; I ſay, though the</hi> Engliſh <hi>Murtherers were far more abomina<g ref="char:EOLhyphen"/>ble, yet their</hi> puniſhment <hi>was much more eaſie and ſhort.</hi>
+            </p>
+            <p>
+               <hi>In concluſion, obſervable it is, that among thoſe varieties of puniſhments which were inſticted upon</hi> Ravaillac, <hi>there were two that followed him after death; For an Edict or Act of Parliament paſs'd, that the Houſe he was born in ſhould be razd to the ground, and not a ſtone left on a ſtone, with a kind of Anathema that none ſhould ever build or d<gap reason="illegible" resp="#APEX" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ll
+<pb n="12" facs="tcp:185019:9" rendition="simple:additions"/>
+there again, Another Act paſs'd that all his Kindred ſhould take another Sirname, and call themſelves no more</hi> Ra<g ref="char:EOLhyphen"/>vaillac, <hi>under pain of being hang'd and ſtrangled.</hi>
+            </p>
+            <p>
+               <hi>Which two particulars are humbly recommended to the Great Council of</hi> England, viz. <hi>the two Houſes of Parlia<g ref="char:EOLhyphen"/>ment, upon their</hi> Re-acceſſe.</p>
+            <closer>
+               <signed>JAMES PARRY.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:185019:9"/>
+         </div>
+      </body>
+   </text>
+</TEI>
